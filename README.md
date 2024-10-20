@@ -1,2 +1,3 @@
 # monkey-kt
-Another interpreter for the monkey programming language in Kotlin.
+monkey-rs
+Another interpreter for the monkey programming language in Kotlin. Based on the book "Writing An Interpreter In Go".
